@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-08-30T14:28:06.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.2.3" etag="dqJlFuKhCZK7tTyqgc7U" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-30T14:37:33.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="vYp5-_3oH3hu5rzKCvzt" version="24.2.3" type="github">
   <diagram name="Page-1" id="pINA0JPRZRuCSQSEo8NE">
-    <mxGraphModel>
+    <mxGraphModel dx="1304" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="StMug0Mb1CIXMHcEhNi8-1" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;reduce image size&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;allow user to edit if the scan made a mistake&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="380" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
