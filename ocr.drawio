@@ -7,6 +7,12 @@
         <mxCell id="StMug0Mb1CIXMHcEhNi8-1" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;reduce image size&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;allow user to edit if the scan made a mistake&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;keep a price cause image requests are 258 tokens&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="50" width="420" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="gNfSdgzeQEDE-PxzJTxZ-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;MVP Objectives:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gNfSdgzeQEDE-PxzJTxZ-2" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;parse the response&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;figure out what will you be sending images and then making the request&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;whatever you do it should be hostable&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="510" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
